@@ -16,7 +16,7 @@ const handleSubmit = e => {
             <input placeholder='product name'
             type="text" 
             name="name" 
-            value={product}
+            
             />
           </label>
           <label>

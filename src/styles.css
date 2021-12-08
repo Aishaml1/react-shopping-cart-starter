@@ -7,11 +7,11 @@
 
 /* color theme https://coolors.co/c5e0eb-919098-897c80-223843-a80874 */
 :root {
-  --modern-powder-blue: #c5e0eb;
-  --blue-greige: #919098;
-  --grape-putty: #897c80;
+  --modern-powder-blue: #ffffff;
+  --blue-greige: #ffffff;
+  --grape-putty: #d61515;
   --royal-midnight: #223843;
-  --dark-fuchsia: #a80874;
+  --dark-fuchsia: #ffffff;
 }
 
 body {
